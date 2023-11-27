@@ -1,4 +1,4 @@
-# ML_HMMCANTrafficAnalysis
+# HMMCANTrafficAnalysis
 #### ⚪ About Project
 * ##### CAN 네트워크에서 정상과 비정상(공격포함)트래픽을 가지고 데이터 가공후 HMM 알고리즘 적용
 * ##### 타임스탬프가 1씩 증가하는 단위시간 동안의 각 Arbid 호출을 엔트로피 시퀀스로 가공 및 HMM 적용
